@@ -14,4 +14,4 @@ _the project was done using Excel_
 
 `the project was done using Excel`
 
-[This is my Linkedin Profile](www.linkedin.com/in/balikisu-a-oniyide)
+[This is my Linkedin Profile](https://www.linkedin.com/in/balikisu-a-oniyide)
